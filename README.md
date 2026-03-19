@@ -100,25 +100,3 @@ Inspired by classic DoS tools (Slowloris, RUDY) and modern async Python techniqu
 Uses aiohttp for asynchronous HTTP.
 
 psutil for system resource monitoring.
-
-text
-
----
-
-## 📥 How to Update Your README on GitHub
-
-1. Open your repository on GitHub.
-2. Click on `README.md` file.
-3. Click the pencil icon (Edit).
-4. Replace the existing content with the new markdown above.
-5. Scroll down and click **"Commit changes"**.
-
-Or, if you prefer the command line:
-
-```bash
-# In your local repository folder
-nano README.md          # or use any editor
-# Paste the new content, save
-git add README.md
-git commit -m "Updated README with cool formatting"
-git push
