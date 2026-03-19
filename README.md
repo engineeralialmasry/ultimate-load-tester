@@ -19,9 +19,4 @@ Proxy rotation
 
 Real‑time statistics
 
-text
-Save and close.
 
-### 2.4 Create `requirements.txt` (optional)
-```powershell
-pip freeze > requirements.txt
